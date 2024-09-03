@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+
+h3 {
+    background-color: blue;
+    color: white;
+    text-align: center
+}
+
+section {
+    text-align: center
+}
+
+#resultado {
+    padding-top: 20px;
+}
